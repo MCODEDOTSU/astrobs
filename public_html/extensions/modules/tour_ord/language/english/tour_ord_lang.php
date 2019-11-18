@@ -1,0 +1,35 @@
+<?php
+	$lang['tour_ord_text'] = 'Order tour';
+	$lang['tour_ord_name'] = 'Your name';
+	$lang['tour_ord_email'] = 'E-mail';
+	$lang['tour_ord_phone'] = 'Contact phone';
+	$lang['tour_ord_tour'] = 'Tour';
+	$lang['tour_ord_count_people'] = 'Count people of group';
+	$lang['tour_ord_period'] = 'Period';
+	$lang['tour_ord_needs'] = 'Needs';
+	$lang['tour_ord_more'] = 'More info';
+	$lang['tour_ord_make_ord'] = 'Make order';
+	$lang['tour_ord_to_home'] = 'Back to home page';
+	$lang['tour_ord_run'] = 'Order is run';
+	$lang['tour_ord_run_text'] = 'Your order has been sent successfully, and for some time you will be contacted.';
+	$lang['tour_ord_from'] = 'From';
+	$lang['tour_ord_to'] = 'To';
+	$lang['tour_ord_jan'] = 'January';
+	$lang['tour_ord_feb'] = 'February';
+	$lang['tour_ord_mar'] = 'March';
+	$lang['tour_ord_apr'] = 'April';
+	$lang['tour_ord_may'] = 'May';
+	$lang['tour_ord_jun'] = 'June';
+	$lang['tour_ord_jul'] = 'July';
+	$lang['tour_ord_aug'] = 'August';
+	$lang['tour_ord_sep'] = 'September';
+	$lang['tour_ord_oct'] = 'October';
+	$lang['tour_ord_nov'] = 'November';
+	$lang['tour_ord_dec'] = 'December';
+	$lang['tour_ord_more_30'] = 'more 30';
+	$lang['tour_ord_error_name'] = 'You entered too few characters in the Name';
+	$lang['tour_ord_error_name_2'] = 'You entered invalid characters in the Name ';
+	$lang['tour_ord_error_email'] = 'You entered Incorrect EMail';
+	$lang['tour_ord_error_phone'] = 'You entered Incorrect phone number ';
+	$lang['tour_ord_error_tour'] = 'No Tour';
+?>

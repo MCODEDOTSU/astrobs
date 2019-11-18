@@ -1,0 +1,121 @@
+.jd_menu {
+	display: block !important;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.jd_menu ul {
+	display: none;
+}
+
+.jd_menu li {
+	float: left;
+}
+
+.jdm_events li {
+	display: block;
+}
+
+/* -- Sub-Menus -- */
+
+.jd_menu ul {
+	position: absolute;
+	display: none;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	z-index: 10000;
+	
+	-webkit-box-shadow:  5px 5px 10px 0px rgba(000, 000, 000, 0.6);
+			box-shadow:  5px 5px 10px 0px rgba(000, 000, 000, 0.6);
+}
+
+.jd_menu ul a {
+	line-height: 38px !important;
+}
+
+.jd_menu ul li {
+	float: none;
+	margin: 0;
+}
+
+
+/* стиль выпадающего списка */
+
+.jd_menu ul {
+	background: #2d2d2d;
+	margin-top: 15px;
+}
+
+
+.jd_menu ul {
+	height: auto;
+}
+
+* html .jd_menu ul {
+	width: 1%;
+}
+
+.jd_menu li {
+	display: block;
+		
+	cursor: pointer;
+	white-space: nowrap;
+}
+	
+.jd_menu li li {
+	min-width: 180px;
+	width: auto;
+}
+	
+.jd_menu a {
+	color: #FFF;
+	text-decoration: none;
+	text-shadow: 1px 1px 0px #000;
+	
+	display: block;
+	
+	padding: 0 20px;
+			
+	line-height: 50px;
+}
+
+.jd_menu > li {
+	background: url('/templates/astrobs/img/driver.png') right bottom no-repeat;
+	padding-right: 2px;
+}
+
+.jd_menu > li > .active  {
+	color: #2d2d2d;
+	text-shadow: none;
+	
+	background: #ffffff;
+	background: -moz-linear-gradient(top,  #ffffff 0%, #e7e7e7 10%, #ffffff 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(10%,#e7e7e7), color-stop(100%,#ffffff));
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#e7e7e7 10%,#ffffff 100%);
+	background: -o-linear-gradient(top,  #ffffff 0%,#e7e7e7 10%,#ffffff 100%);
+	background: -ms-linear-gradient(top,  #ffffff 0%,#e7e7e7 10%,#ffffff 100%);
+	background: linear-gradient(to bottom,  #ffffff 0%,#e7e7e7 10%,#ffffff 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
+
+
+}
+	
+.jd_menu a:hover {
+	text-decoration: none;
+}
+
+.jd_menu ul .active {
+	color: #ffcc00;
+	text-decoration: underline;
+}
+
+.jdm_hover,
+.jdm_active,
+.jdm_hover a {
+	background: #2d2d2d !important;
+}
+	.jdm_hover > a {
+		color: #ffcc00 !important;
+	}

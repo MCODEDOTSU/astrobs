@@ -1,0 +1,33 @@
+<?php
+
+if (isset ($_POST['ok']))
+{
+   $count  = count ($_POST['checkbox']);
+   $counts = count ($_POST['checkboxs']);
+   mysql_query ("UPDATE `th_category` SET `main` = '0', `left` = '0', `top` = '0'");
+   for ($i = 0; $i < $count; $i++)
+   {
+      mysql_query ("UPDATE `th_category` SET `main` = '1' WHERE `id` = '" . $_POST['checkbox'][$i] . "'");
+   }
+   for ($i = 0; $i < $counts; $i++)
+   {
+      mysql_query ("UPDATE `th_category` SET `left` = '1' WHERE `id` = '" . $_POST['checkboxs'][$i] . "'");
+   }
+   mysql_query ("UPDATE `th_category` SET `top` = '1' WHERE `id` = '" . $_POST['radio'] . "'");
+}
+
+echo '<h3>Рубрики для главной страницы:<BR><hr></h3>';
+$main_cats_query = mysql_query ("SELECT * FROM `th_category` ORDER BY `id` DESC");
+echo '<FORM ACTION="" METHOD="POST">';
+echo '<table style="width: 500px;" style="border: 1px;">';
+echo '<tr><td><h3>Название:</h3></td><td><h3>Вывод на главной:</h3></td><td><h3>Вывод слева:</h3></td><td><h3>Вывод сверху:</h3></td></tr>';
+while ($cats = mysql_fetch_array ($main_cats_query))
+{
+   ?><tr><td><?=$cats['title'];?></td><td><input type="checkbox" name="checkbox[]" value="<?=$cats['id'];?>"<?php if ($cats['main'] == '1') echo ' checked';?>></td><td><input type="checkbox" name="checkboxs[]" value="<?=$cats['id'];?>"<?php if ($cats['left'] == '1') echo ' checked';?>></td>
+
+<td><input type="radio" name="radio" value="<?=$cats['id'];?>"<?php if ($cats['top'] == '1') echo ' checked';?>></td>
+</tr><?php
+}
+echo '<tr><td></td><td></td><td></td><td><input type="submit" name="ok" value="Сохранить"></td><td></td></tr>';
+echo "</FORM>";
+echo '</table>';

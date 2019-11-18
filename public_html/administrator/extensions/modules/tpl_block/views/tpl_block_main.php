@@ -1,0 +1,12 @@
+<div class="cms_title">Главная страница</div>
+
+<div class="cms_content">
+	{form_open}
+	
+		<label class="label_title"><span>Заголовок:</span>{title}</label>
+		{body}
+		<br />
+		{submit}
+		
+	{form_close}
+</div>

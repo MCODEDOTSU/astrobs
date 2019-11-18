@@ -1,0 +1,1 @@
+<div class="place_item">{item}</div>
