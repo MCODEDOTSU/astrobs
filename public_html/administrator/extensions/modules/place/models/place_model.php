@@ -834,7 +834,8 @@ class Place_model extends Model
         if(strlen($extraParent[$this->sort_column_name]) == 0) return array();
 
         $arrFiles = $this->sort($extraParent[$this->sort_column_name]);
-		//print_r ($arrFiles);
+        $mas = [];
+
         foreach($arrFiles as $item)
         {
             $mas[] = array(
