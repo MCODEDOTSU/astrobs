@@ -31,6 +31,8 @@ if (!in_array($wh, $allowed_sizes)) {
 }
 $src = $_dir . '/' . $file . '.' . $_type;
 
+print_r($src);
+
 if (!file_exists($src)) {
     $src = 'images/no_image.jpg';
 }
