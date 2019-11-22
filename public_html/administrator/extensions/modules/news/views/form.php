@@ -33,7 +33,7 @@
 {form_close}
 </div>
 
-<?php /*
+<?/*
 <div class="cms_title">Комментарии к новости:</div>
 
 <div class="cms_content">
@@ -65,7 +65,7 @@
 				</td>
 			</tr>
 			
-	<?php
+	<?
 		}
 			echo '</table>';
 		}

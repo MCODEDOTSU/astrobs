@@ -51,7 +51,7 @@ class News extends Admin_Controller
         $news = $this->news_model->extra(array('file_id' => $fileId));
         if (count($news)) $news = $news[0];
 
-        if (file_exists($_SERVER['DOCUMENT_ROOT'] . '/news_imgs/' . $news['img'])) {
+        if (!empty($news['img']) && file_exists($_SERVER['DOCUMENT_ROOT'] . '/news_imgs/' . $news['img'])) {
             $img = '/news_imgs/' . $news['img'];
             //die ($img);
         } else {
@@ -59,25 +59,24 @@ class News extends Admin_Controller
         }
 
         $data = array(
-
             'form_open' => form_open_multipart('admin/news/news/save'),
             'form_close' => form_close(),
             'submit' => form_submit('frmSubmit', 'Сохранить'),
             'file_id' => form_hidden('file_id', $fileId),
-            'title' => form_input('title', $news['title'], 'style="width: 300px;"'),
+            'title' => !empty($news['title']) ? form_input('title', $news['title'], 'style="width: 300px;"') : form_input('title', '', 'style="width: 300px;"'),
             'img' => '<img src="' . $img . '" border="0" width="80">',
-            'desc' => form_textarea('desc', $news['desc']),
-            'body' => form_ckeditor('body', $news['body']),
+            'desc' => !empty($news['desc']) ? form_textarea('desc', $news['desc']) : form_textarea('desc', ''),
+            'body' => !empty($news['body']) ? form_ckeditor('body', $news['body']) : form_ckeditor('body', ''),
             'created' => form_dropdown('created_day', $this->formDay, date('d')) .
                 form_dropdown('created_month', $this->formMonth, date('m')) .
                 form_dropdown('created_year', $this->formYear, date('Y')),
-//            'expired' => form_dropdown('expired_day', $this->formDay, date('d')) .
-//                form_dropdown('expired_month', $this->formMonth, date('m')) .
-//                form_dropdown('expired_year', $this->formYear, date('Y')),
-            'commented' => 'Нет' . form_radio('commented', 0, $news['commented'], 'checked') .
-                ' Да' . form_radio('commented', 1, $news['commented']),
-            'rating' => 'Нет' . form_radio('rating', 0, $news['rating']) .
-                'Да' . form_radio('rating', 1, $news['rating']),
+            'expired' => form_dropdown('expired_day', $this->formDay, date('d')) .
+                form_dropdown('expired_month', $this->formMonth, date('m')) .
+                form_dropdown('expired_year', $this->formYear, date('Y')),
+            'commented' => !empty($news['commented']) ? 'Нет' . form_radio('commented', 0, $news['commented'], 'checked') . ' Да' . form_radio('commented', 1, $news['commented']) :
+                'Нет' . form_radio('commented', 0, '', 'checked') . ' Да' . form_radio('commented', 1, ''),
+            'rating' => !empty($news['rating']) ? 'Нет' . form_radio('rating', 0, $news['rating']) . 'Да' . form_radio('rating', 1, $news['rating']) :
+                'Нет' . form_radio('rating', 0, '') . 'Да' . form_radio('rating', 1, ''),
         );
 
         $this->module->parse('news', 'form.php', $data);
@@ -100,11 +99,11 @@ class News extends Admin_Controller
         //$created    = date('Y-m-d h:i:s');  // notice
         //print_r($created);	die;	    // notice
         $created = date('Y-m-d h:i:s', $created);
-//        $expired = $this->news_model->datetime(array(
-//            'day' => $this->input->post('expired_day'),
-//            'month' => $this->input->post('expired_month'),
-//            'year' => $this->input->post('expired_year')
-//        ));
+        $expired = $this->news_model->datetime(array(
+            'day' => $this->input->post('expired_day'),
+            'month' => $this->input->post('expired_month'),
+            'year' => $this->input->post('expired_year')
+        ));
 
         $commented = $this->input->post('commented');
         $rating = $this->input->post('rating');
@@ -133,7 +132,7 @@ class News extends Admin_Controller
                 'body' => $body,
                 'created' => $created,
                 'img' => $img,
-                // 'expired' => $expired,
+                'expired' => $expired,
                 'commented' => $commented,
                 'rating' => $rating
             ), array('id' => $news[0]['id']));

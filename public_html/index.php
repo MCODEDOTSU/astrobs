@@ -12,7 +12,7 @@
 */
 	error_reporting(E_ALL);
 	//error_reporting(0);
-	error_log('/tmp/php.log');
+
 	//print_r ($_SERVER['DOCUMENT_ROOT']);
 
 /*

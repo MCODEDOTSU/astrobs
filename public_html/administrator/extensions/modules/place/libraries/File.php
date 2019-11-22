@@ -4,17 +4,17 @@ class File
 {
     // Имя файла
     var $title;
-
+    
     // Тип файла
     var $type;
-
+    
     // CodeIgniter
     var $CI;
-
+    
     var $TABLE;
 
     var $user;
-
+    
     // Конструктор
     function File()
     {
@@ -22,54 +22,54 @@ class File
         $this->TABLE = 'file';
         $this->user = $this->CI->authorization->user;
     }
-
+    
     // Удаление
     function deleteFile($id = null)
     {
-        if (!is_numeric($id)) return FALSE;
-
+        if(!is_numeric($id)) return FALSE;
+        
         $extraFile = $this->getExtraFile($id);
-        if (count($extraFile) == 0) return FALSE;
+        if(count($extraFile) == 0) return FALSE;
 
         //=======================================================
-        if ($extraFile[0]['folder_id'] > 0) {
+        if($extraFile[0]['folder_id'] > 0){
             $parentFolderNode = $this->CI->folder->_getNodeById($extraFile[0]['folder_id']);
             $extraParentFolder = $this->CI->folder->getExtraFolder($parentFolderNode);
             $this->CI->folder->modifyExtraFolder(array(
-                $this->CI->folder->sort_column_name => str_replace('a' . $id . ';', '', $extraParentFolder[$this->CI->folder->sort_column_name])
+                $this->CI->folder->sort_column_name => str_replace('a'.$id.';','', $extraParentFolder[$this->CI->folder->sort_column_name])
             ), $parentFolderNode);
-        } else if ($extraFile[0]['category_id'] > 0) {
+        } else if($extraFile[0]['category_id'] > 0){
             $extraParentCategory = $this->CI->category->getExtraCategory($extraFile[0]['category_id']);
             $this->CI->category->modifyExtraCategory(array(
-                $this->CI->category->sort_column_name => str_replace('a' . $id . ';', '', $extraParentCategory[0][$this->CI->category->sort_column_name])
+                $this->CI->category->sort_column_name => str_replace('a'.$id.';','', $extraParentCategory[0][$this->CI->category->sort_column_name])
             ), $extraFile[0]['category_id']);
         }
 
 
         return $this->CI->db->delete($this->TABLE, array('id' => $id));
     }
-
+    
     // Создание
     function createFile($extrafields = array())
     {
-        if (strlen($extrafields['type']) < 1) return FALSE;
-        if (empty($extrafields['title']) || $extrafields['title'] === '') $extrafields['title'] = 'Без наименования';
-
+        if(strlen($extrafields['type']) < 1) return FALSE;
+        if(strlen($extrafields['title']) < 1) $extrafields['title'] = 'Без наименования';
+        
         $this->CI->db->insert($this->TABLE, $extrafields);
 
-        $insertId = $this->CI->db->insert_id();
+        $insertId =  $this->CI->db->insert_id();
 
         //=======================================================
-        if ($extrafields['folder_id'] > 0) {
+        if($extrafields['folder_id'] > 0){
             $parentFolderNode = $this->CI->folder->_getNodeById($extrafields['folder_id']);
             $extraParentFolder = $this->CI->folder->getExtraFolder($parentFolderNode);
             $this->CI->folder->modifyExtraFolder(array(
-                $this->CI->folder->sort_column_name => 'a' . $insertId . ';' . $extraParentFolder[$this->CI->folder->sort_column_name]
+                $this->CI->folder->sort_column_name => 'a'.$insertId.';'.$extraParentFolder[$this->CI->folder->sort_column_name]
             ), $parentFolderNode);
-        } else if ($extrafields['category_id'] > 0) {
+        } else if($extrafields['category_id'] > 0){
             $extraParentCategory = $this->CI->category->getExtraCategory($extrafields['category_id']);
             $this->CI->category->modifyExtraCategory(array(
-                $this->CI->category->sort_column_name => 'a' . $insertId . ';' . $extraParentCategory[0][$this->CI->category->sort_column_name]
+                $this->CI->category->sort_column_name => 'a'.$insertId.';'.$extraParentCategory[0][$this->CI->category->sort_column_name]
             ), $extrafields['category_id']);
         }
 
@@ -78,67 +78,66 @@ class File
 
     function getExtraFile($fileId = null)
     {
-        if (!is_numeric($fileId)) return false;
+        if(!is_numeric($fileId)) return false;
 
         return $this->CI->db
-            ->from($this->TABLE)
-            ->where(array('id' => $fileId))
-            ->get()
-            ->result_array();
+               ->from($this->TABLE)
+               ->where(array('id' => $fileId))
+               ->get()
+               ->result_array();
     }
 
     function createFileInCategory($extrafields = array())
     {
-        if (!is_numeric($extrafields['category_id'])) return FALSE;
-        if (strlen($extrafields['type']) < 1) return FALSE;
-        if (strlen($extrafields['title']) < 1) $extrafields['title'] = 'Без наименования';
+        if(!is_numeric($extrafields['category_id'])) return FALSE;
+        if(strlen($extrafields['type']) < 1) return FALSE;
+        if(strlen($extrafields['title']) < 1) $extrafields['title'] = 'Без наименования';
 
         return $this->CI->db->insert($this->TABLE, $extrafields);
     }
-
+    
     // Переименование файла
     function renameFile($title, $id)
     {
-        if (!is_numeric($id)) return FALSE;
-
-        if ((strlen($title) == ' ') && (strlen($title) < 1)) return FALSE;
-
-        return $this->CI->db->update($this->TABLE, array('title' => $title), array('id' => $id));
+        if(!is_numeric($id)) return FALSE;
+        
+        if( (strlen($title) == ' ') && (strlen($title) < 1) ) return FALSE;
+        
+        return $this->CI->db->update($this->TABLE, array('title' => $title), array('id'=>$id));
     }
-
+    
     // Получаем все файлы в из папки с id = $folderId
     // Возвращает массив
     function getFilesToFolder($folderId = null)
     {
-        if (!is_numeric($folderId)) return FALSE;
-
-        return $this->CI->db
-            ->from($this->TABLE)
-            ->where('folder_id', $folderId)
-            ->get()
-            ->result_array();
-
+        if(!is_numeric($folderId)) return FALSE;
+    
+        return   $this->CI->db
+                      ->from($this->TABLE)
+                      ->where('folder_id', $folderId)
+                      ->get()
+                      ->result_array();
+    
     }
 
     function getFilesToCategory($categoryId = null)
     {
-        if (!is_numeric($categoryId)) return FALSE;
-
-        return $this->CI->db
-            ->from($this->TABLE)
-            ->where('category_id', $categoryId)
-            ->get()
-            ->result_array();
+        if(!is_numeric($categoryId)) return FALSE;
+        
+        return   $this->CI->db
+                      ->from($this->TABLE)
+                      ->where('category_id', $categoryId)
+                      ->get()
+                      ->result_array();
     }
 
     function modifyExtraFile($extrafields = array(), $fileId = null)
     {
-        if (count($extrafields) == 0) return FALSE;
-        if (!is_numeric($fileId)) return FALSE;
+        if(count($extrafields) == 0) return FALSE;
+        if(!is_numeric($fileId)) return FALSE;
 
-        return $this->CI->db->update($this->TABLE, $extrafields, array('id' => $fileId));
+        return $this->CI->db->update($this->TABLE, $extrafields, array('id'=> $fileId));
     }
 
-}
-
+} 
 ?>

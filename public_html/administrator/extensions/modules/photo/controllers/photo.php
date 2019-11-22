@@ -50,7 +50,6 @@ class Photo extends Admin_Controller
         $fileId  = $this->input->post('file_id'); if(!is_numeric($fileId)) return FALSE;
 
         if (!empty($_FILES['path']['name'])) {
-
             $upload_data = $this->photo_model->do_upload('path');
 
             if(count($upload_data) == 0) {
