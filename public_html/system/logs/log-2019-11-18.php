@@ -20865,3 +20865,2405 @@ DEBUG - 2019-11-18 10:54:30 --> File loaded: extensions/modules/font_panel/views
 DEBUG - 2019-11-18 10:54:30 --> Model Class Initialized
 DEBUG - 2019-11-18 10:54:30 --> Public_Controller Class Initialized
 DEBUG - 2019-11-18 10:54:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:57 --> Config Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Hooks Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Hooks Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> URI Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> URI Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Router Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Router Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Output Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Output Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Input Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Input Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 11:02:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 11:02:57 --> Language Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Language Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Loader Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Loader Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 11:02:57 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 11:02:57 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 11:02:57 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 11:02:57 --> Database Driver Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Database Driver Class Initialized
+ERROR - 2019-11-18 11:02:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2019-11-18 11:02:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2019-11-18 11:02:57 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2019-11-18 11:02:57 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 11:02:57 --> Session Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Session Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 11:02:57 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 11:02:57 --> Session routines successfully run
+DEBUG - 2019-11-18 11:02:57 --> Session routines successfully run
+DEBUG - 2019-11-18 11:02:57 --> Validation Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Validation Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Controller Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Controller Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 11:02:57 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 11:02:57 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 11:02:57 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 11:02:57 --> Final output sent to browser
+DEBUG - 2019-11-18 11:02:57 --> Total execution time: 0.6140
+DEBUG - 2019-11-18 11:02:57 --> Final output sent to browser
+DEBUG - 2019-11-18 11:02:57 --> Total execution time: 0.6230
+DEBUG - 2019-11-18 11:02:58 --> Config Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Hooks Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> URI Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Router Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Output Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Input Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 11:02:58 --> Language Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Loader Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 11:02:58 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 11:02:58 --> Database Driver Class Initialized
+ERROR - 2019-11-18 11:02:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 11:02:58 --> Session Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 11:02:58 --> Session routines successfully run
+DEBUG - 2019-11-18 11:02:58 --> Validation Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Controller Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 11:02:58 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 11:02:58 --> Model Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 11:02:58 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 11:02:58 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 11:02:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:06 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:06 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:06 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:06 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2019-11-18 13:37:06 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:06 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:06 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:06 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:06 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:06 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:06 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:06 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:06 --> Final output sent to browser
+DEBUG - 2019-11-18 13:37:06 --> Total execution time: 0.4500
+DEBUG - 2019-11-18 13:37:07 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:07 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:07 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:07 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:07 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:07 --> Session garbage collection performed.
+DEBUG - 2019-11-18 13:37:07 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:07 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:07 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:07 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:07 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:07 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:09 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:09 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:09 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:09 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:09 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:09 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:09 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:09 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:09 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:09 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:09 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:09 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:09 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:10 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:10 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:10 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:10 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:10 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:10 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:10 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:10 --> Database Driver Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Session Class Initialized
+ERROR - 2019-11-18 13:37:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2019-11-18 13:37:10 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:10 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:10 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:10 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:10 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:10 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:10 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:10 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Final output sent to browser
+DEBUG - 2019-11-18 13:37:10 --> Total execution time: 0.1080
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:10 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:10 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:10 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:10 --> Final output sent to browser
+DEBUG - 2019-11-18 13:37:10 --> Total execution time: 0.1460
+DEBUG - 2019-11-18 13:37:11 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:11 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:11 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:11 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:11 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:11 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:11 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:11 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:11 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:11 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:11 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:11 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:11 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:13 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:13 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:13 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:13 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:13 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:13 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:13 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:13 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:14 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:14 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:14 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:14 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:14 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:15 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:15 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:15 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:15 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:15 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:15 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:15 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:15 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:15 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:16 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:16 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:16 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:16 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:16 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:16 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:16 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:16 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:16 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:16 --> Admin_Controller Class Initialized
+INFO  - 2019-11-18 13:37:16 --> Пользователь root: Удален объект c названием Фото 1
+DEBUG - 2019-11-18 13:37:17 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:17 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:17 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:17 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:17 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:17 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:17 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:17 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:17 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:17 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:17 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:17 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:19 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:19 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:19 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:19 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:19 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:19 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:19 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:19 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:19 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:19 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:19 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:21 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:21 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:21 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:21 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:21 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:21 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:21 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:21 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:21 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:21 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:21 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:21 --> Admin_Controller Class Initialized
+INFO  - 2019-11-18 13:37:21 --> Пользователь root: Удалена рубрика c названием Концерт
+DEBUG - 2019-11-18 13:37:23 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:23 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:23 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:23 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:23 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:23 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:23 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:23 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:23 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:23 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:23 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:23 --> Admin_Controller Class Initialized
+ERROR - 2019-11-18 13:37:23 --> Severity: Notice  --> Undefined offset: 0 C:\OSPanel\domains\astrobs.local\public_html\administrator\extensions\modules\place\models\place_model.php 822
+DEBUG - 2019-11-18 13:37:23 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:25 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:25 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:25 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:25 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:25 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:25 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:25 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:25 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:25 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:25 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:26 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:26 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:26 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:26 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:26 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:26 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:26 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:26 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:26 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:26 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:26 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:26 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:26 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> Admin_Controller Class Initialized
+ERROR - 2019-11-18 13:37:27 --> Severity: Notice  --> Undefined offset: 0 C:\OSPanel\domains\astrobs.local\public_html\administrator\extensions\modules\place\models\place_model.php 822
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:27 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:27 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:27 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:27 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:27 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:27 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:27 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:27 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:27 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:27 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:27 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:27 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:27 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:27 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:27 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:27 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:27 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:27 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:29 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:29 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:29 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:29 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:29 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:29 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:29 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:29 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:29 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:29 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:29 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:29 --> Final output sent to browser
+DEBUG - 2019-11-18 13:37:29 --> Total execution time: 0.7080
+DEBUG - 2019-11-18 13:37:30 --> Config Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Hooks Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> URI Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Router Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Output Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Input Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-18 13:37:30 --> Language Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Loader Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Helper loaded: url_helper
+DEBUG - 2019-11-18 13:37:30 --> Helper loaded: form_helper
+DEBUG - 2019-11-18 13:37:30 --> Database Driver Class Initialized
+ERROR - 2019-11-18 13:37:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-18 13:37:30 --> Session Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Helper loaded: string_helper
+DEBUG - 2019-11-18 13:37:30 --> Session routines successfully run
+DEBUG - 2019-11-18 13:37:30 --> Validation Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Controller Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-18 13:37:30 --> Site_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/default.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/article.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/document.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/news.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/library.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/users.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/place.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/access.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-18 13:37:30 --> Model Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-18 13:37:30 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-18 13:37:30 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-18 13:37:30 --> Parser class already loaded. Second attempt ignored.
