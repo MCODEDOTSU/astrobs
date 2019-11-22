@@ -18867,3 +18867,1426 @@ DEBUG - 2019-11-22 20:18:45 --> Parser class already loaded. Second attempt igno
 DEBUG - 2019-11-22 20:18:45 --> Parser class already loaded. Second attempt ignored.
 DEBUG - 2019-11-22 20:18:45 --> Parser class already loaded. Second attempt ignored.
 DEBUG - 2019-11-22 20:18:45 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:56 --> Config Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Hooks Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> URI Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Router Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Output Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Input Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-22 20:25:56 --> Language Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Loader Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Helper loaded: url_helper
+DEBUG - 2019-11-22 20:25:56 --> Helper loaded: form_helper
+DEBUG - 2019-11-22 20:25:56 --> Database Driver Class Initialized
+ERROR - 2019-11-22 20:25:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2019-11-22 20:25:56 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-22 20:25:56 --> Session Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Helper loaded: string_helper
+DEBUG - 2019-11-22 20:25:56 --> Session routines successfully run
+DEBUG - 2019-11-22 20:25:56 --> Validation Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Controller Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-22 20:25:56 --> Site_Controller Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/default.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/article.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/document.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/news.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/library.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/users.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/place.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/access.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-22 20:25:56 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-22 20:25:56 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-22 20:25:56 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-22 20:25:56 --> Final output sent to browser
+DEBUG - 2019-11-22 20:25:56 --> Total execution time: 0.4070
+DEBUG - 2019-11-22 20:25:57 --> Config Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Hooks Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> URI Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Router Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Output Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Input Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-22 20:25:57 --> Language Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Loader Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Helper loaded: url_helper
+DEBUG - 2019-11-22 20:25:57 --> Helper loaded: form_helper
+DEBUG - 2019-11-22 20:25:57 --> Database Driver Class Initialized
+ERROR - 2019-11-22 20:25:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-22 20:25:57 --> Session Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Helper loaded: string_helper
+DEBUG - 2019-11-22 20:25:57 --> Session routines successfully run
+DEBUG - 2019-11-22 20:25:57 --> Validation Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Controller Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-22 20:25:57 --> Site_Controller Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/default.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/templates/default/index.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/jquery_datatables.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/tinymce.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/jquery_form.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/place_ajaxTree.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/place_itemActions.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/place_form.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/place_ajaxDialog.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/jquery_jstree.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/article.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/article/views/form.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/tpl_block.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_main.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_right.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_left.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/tpl_block/views/tpl_block_bottom.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/photo/views/form.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/document.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/document/views/view.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/news.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/news/views/form.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/mod_content.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/mod_content/views/index.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/qas/views/qas.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/qas/views/form_qas.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/library.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/library/views/index.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/library/views/form.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/library/views/category.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/library/views/category_form.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/menu.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/menu/views/jdMenu.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/users.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/users/views/index.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/users/views/form.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/place.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/place/views/item.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/place/views/place.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/place/views/content.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/place/views/form.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/user_groups.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/user_groups/views/index.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/user_groups/views/form.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/anchor/views/form.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/access.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/access/views/index.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/access/views/groups.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/rubric.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/rubric/views/index.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/rubric/views/desc.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/setlangfold.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/setlangfold/views/index.php
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/folders/views/folders_form.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/folders/views/folders_type_form.php
+DEBUG - 2019-11-22 20:25:57 --> Model Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Config file loaded: config/comments.php
+DEBUG - 2019-11-22 20:25:57 --> File loaded: administrator/extensions/modules/comments/views/index.php
+DEBUG - 2019-11-22 20:25:57 --> Admin_Controller Class Initialized
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:57 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:25:58 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:00 --> Config Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Hooks Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> URI Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> No URI present. Default controller set.
+DEBUG - 2019-11-22 20:26:00 --> Router Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Output Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Input Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-22 20:26:00 --> Language Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Loader Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Helper loaded: url_helper
+DEBUG - 2019-11-22 20:26:00 --> Helper loaded: form_helper
+DEBUG - 2019-11-22 20:26:00 --> Database Driver Class Initialized
+ERROR - 2019-11-22 20:26:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-22 20:26:00 --> Session Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Helper loaded: string_helper
+DEBUG - 2019-11-22 20:26:00 --> Session routines successfully run
+DEBUG - 2019-11-22 20:26:00 --> Validation Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Controller Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-22 20:26:00 --> Site_Controller Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/astrobs.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: templates/astrobs/index.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/jquery_treeview.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/folder_library.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/category_library.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/file_library.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/breadcrumbs_library.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/sitelang_library.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/left_menu.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/search.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/search/views/article.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/search/views/news.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/search/views/block.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/search/views/block2.php
+DEBUG - 2019-11-22 20:26:00 --> Language file loaded: language/russian/search_lang.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/t_menu.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/t_menu/views/block.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/article.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/article/views/view.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/article/views/ordresult.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/tpl_block_left.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/tpl_block_right.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/tpl_block_bottom.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/register_form.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/register_form/views/index.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/register_form/views/accept.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/register_form/views/letterA.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/register_form/views/letterB.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/document.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/document/views/view.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/news.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/news/views/view.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/news/views/block.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/photo/views/view.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/qas/views/view.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/qas/views/form.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/news_block.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/news_block/views/view.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/news_block/views/block.php
+DEBUG - 2019-11-22 20:26:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:00 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/poll.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/poll/views/block.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/poll/views/view.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/site_map.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/site_map/views/site_map.php
+DEBUG - 2019-11-22 20:26:00 --> Language file loaded: language/russian/site_map_lang.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/cattours.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/cattours/views/index.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/cattours/views/categories.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/cattours/views/objects.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/cattours/views/object.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/cattours/views/getord.php
+DEBUG - 2019-11-22 20:26:00 --> Language file loaded: language/russian/tours_lang.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/folders/views/index.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/setlang.php
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/version_site.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Config file loaded: config/font_panel.php
+DEBUG - 2019-11-22 20:26:00 --> File loaded: extensions/modules/font_panel/views/panel.php
+DEBUG - 2019-11-22 20:26:00 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Public_Controller Class Initialized
+DEBUG - 2019-11-22 20:26:00 --> Final output sent to browser
+DEBUG - 2019-11-22 20:26:00 --> Total execution time: 0.4420
+DEBUG - 2019-11-22 20:26:03 --> Config Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Hooks Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> URI Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Router Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Output Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Input Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-22 20:26:03 --> Language Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Loader Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Helper loaded: url_helper
+DEBUG - 2019-11-22 20:26:03 --> Helper loaded: form_helper
+DEBUG - 2019-11-22 20:26:03 --> Database Driver Class Initialized
+ERROR - 2019-11-22 20:26:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-22 20:26:03 --> Session Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Helper loaded: string_helper
+DEBUG - 2019-11-22 20:26:03 --> Session routines successfully run
+DEBUG - 2019-11-22 20:26:03 --> Validation Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Controller Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-22 20:26:03 --> Site_Controller Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/astrobs.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: templates/astrobs/index.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/jquery_treeview.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/folder_library.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/category_library.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/file_library.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/breadcrumbs_library.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/sitelang_library.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/left_menu.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/search.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/search/views/article.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/search/views/news.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/search/views/block.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/search/views/block2.php
+DEBUG - 2019-11-22 20:26:03 --> Language file loaded: language/russian/search_lang.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/t_menu.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/t_menu/views/block.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/article.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/article/views/view.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/article/views/ordresult.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/tpl_block_left.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/tpl_block_right.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/tpl_block_bottom.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/register_form.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/register_form/views/index.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/register_form/views/accept.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/register_form/views/letterA.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/register_form/views/letterB.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/document.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/document/views/view.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/news.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/news/views/view.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/news/views/block.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/photo/views/view.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/qas/views/view.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/qas/views/form.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/news_block.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/news_block/views/view.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/news_block/views/block.php
+DEBUG - 2019-11-22 20:26:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/poll.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/poll/views/block.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/poll/views/view.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/site_map.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/site_map/views/site_map.php
+DEBUG - 2019-11-22 20:26:03 --> Language file loaded: language/russian/site_map_lang.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/cattours.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/cattours/views/index.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/cattours/views/categories.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/cattours/views/objects.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/cattours/views/object.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/cattours/views/getord.php
+DEBUG - 2019-11-22 20:26:03 --> Language file loaded: language/russian/tours_lang.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/folders/views/index.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/setlang.php
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/version_site.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Config file loaded: config/font_panel.php
+DEBUG - 2019-11-22 20:26:03 --> File loaded: extensions/modules/font_panel/views/panel.php
+DEBUG - 2019-11-22 20:26:03 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Public_Controller Class Initialized
+DEBUG - 2019-11-22 20:26:03 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:04 --> Config Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Hooks Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> URI Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Router Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Output Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Input Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-22 20:26:04 --> Language Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Loader Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Helper loaded: url_helper
+DEBUG - 2019-11-22 20:26:04 --> Helper loaded: form_helper
+DEBUG - 2019-11-22 20:26:04 --> Database Driver Class Initialized
+ERROR - 2019-11-22 20:26:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-22 20:26:04 --> Session Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Helper loaded: string_helper
+DEBUG - 2019-11-22 20:26:04 --> Session routines successfully run
+DEBUG - 2019-11-22 20:26:04 --> Validation Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Controller Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-22 20:26:04 --> Site_Controller Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/astrobs.php
+DEBUG - 2019-11-22 20:26:04 --> File loaded: templates/astrobs/index.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/jquery_treeview.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-22 20:26:04 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/folder_library.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/category_library.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/file_library.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/breadcrumbs_library.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/sitelang_library.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/left_menu.php
+DEBUG - 2019-11-22 20:26:04 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/search.php
+DEBUG - 2019-11-22 20:26:04 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:04 --> File loaded: extensions/modules/search/views/article.php
+DEBUG - 2019-11-22 20:26:04 --> File loaded: extensions/modules/search/views/news.php
+DEBUG - 2019-11-22 20:26:04 --> File loaded: extensions/modules/search/views/block.php
+DEBUG - 2019-11-22 20:26:04 --> File loaded: extensions/modules/search/views/block2.php
+DEBUG - 2019-11-22 20:26:04 --> Language file loaded: language/russian/search_lang.php
+DEBUG - 2019-11-22 20:26:04 --> Config file loaded: config/t_menu.php
+DEBUG - 2019-11-22 20:26:04 --> File loaded: extensions/modules/t_menu/views/block.php
+DEBUG - 2019-11-22 20:26:04 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/article.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/article/views/view.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/article/views/ordresult.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/tpl_block_left.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/tpl_block_right.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/tpl_block_bottom.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/register_form.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/register_form/views/index.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/register_form/views/accept.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/register_form/views/letterA.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/register_form/views/letterB.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/document.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/document/views/view.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/news.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/news/views/view.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/news/views/block.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/photo/views/view.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/qas/views/view.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/qas/views/form.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/news_block.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/news_block/views/view.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/news_block/views/block.php
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/poll.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/poll/views/block.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/poll/views/view.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/site_map.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/site_map/views/site_map.php
+DEBUG - 2019-11-22 20:26:05 --> Language file loaded: language/russian/site_map_lang.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/cattours.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/cattours/views/index.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/cattours/views/categories.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/cattours/views/objects.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/cattours/views/object.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/cattours/views/getord.php
+DEBUG - 2019-11-22 20:26:05 --> Language file loaded: language/russian/tours_lang.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/folders/views/index.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/setlang.php
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/version_site.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> Config file loaded: config/font_panel.php
+DEBUG - 2019-11-22 20:26:05 --> File loaded: extensions/modules/font_panel/views/panel.php
+DEBUG - 2019-11-22 20:26:05 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> Public_Controller Class Initialized
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:05 --> Final output sent to browser
+DEBUG - 2019-11-22 20:26:05 --> Total execution time: 0.5730
+DEBUG - 2019-11-22 20:26:07 --> Config Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Hooks Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> URI Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Router Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Output Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Input Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2019-11-22 20:26:07 --> Language Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Loader Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Helper loaded: url_helper
+DEBUG - 2019-11-22 20:26:07 --> Helper loaded: form_helper
+DEBUG - 2019-11-22 20:26:07 --> Database Driver Class Initialized
+ERROR - 2019-11-22 20:26:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2019-11-22 20:26:07 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\OSPanel\domains\astrobs.local\public_html\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2019-11-22 20:26:07 --> Session Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Helper loaded: string_helper
+DEBUG - 2019-11-22 20:26:07 --> Session garbage collection performed.
+DEBUG - 2019-11-22 20:26:07 --> Session routines successfully run
+DEBUG - 2019-11-22 20:26:07 --> Validation Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Controller Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/templates.php
+DEBUG - 2019-11-22 20:26:07 --> Site_Controller Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/astrobs.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: templates/astrobs/index.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/extensions.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/jquery_treeview.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/jquery_cookie.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/nested_sets_model.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/folder_library.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/category_library.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/file_library.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/breadcrumbs_library.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/sitelang_library.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/left_menu.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/search.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/search/views/article.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/search/views/news.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/search/views/block.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/search/views/block2.php
+DEBUG - 2019-11-22 20:26:07 --> Language file loaded: language/russian/search_lang.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/t_menu.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/t_menu/views/block.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/article.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/article/views/view.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/article/views/ordresult.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/tpl_block_left.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/tpl_block_right.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/tpl_block_bottom.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/register_form.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/register_form/views/index.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/register_form/views/accept.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/register_form/views/letterA.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/register_form/views/letterB.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/document.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/document/views/view.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/news.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/news/views/view.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/news/views/block.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/photo.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/photo/views/view.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/qas.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/qas/views/view.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/qas/views/form.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/news_block.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/news_block/views/view.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/news_block/views/block.php
+DEBUG - 2019-11-22 20:26:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:07 --> Parser class already loaded. Second attempt ignored.
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/poll.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/poll/views/block.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/poll/views/view.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/anchor.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/site_map.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/site_map/views/site_map.php
+DEBUG - 2019-11-22 20:26:07 --> Language file loaded: language/russian/site_map_lang.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/cattours.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/cattours/views/index.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/cattours/views/categories.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/cattours/views/objects.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/cattours/views/object.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/cattours/views/getord.php
+DEBUG - 2019-11-22 20:26:07 --> Language file loaded: language/russian/tours_lang.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/folders.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/folders/views/index.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/setlang.php
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/version_site.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Config file loaded: config/font_panel.php
+DEBUG - 2019-11-22 20:26:07 --> File loaded: extensions/modules/font_panel/views/panel.php
+DEBUG - 2019-11-22 20:26:07 --> Model Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Public_Controller Class Initialized
+DEBUG - 2019-11-22 20:26:07 --> Parser class already loaded. Second attempt ignored.

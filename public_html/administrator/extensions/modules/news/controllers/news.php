@@ -70,9 +70,9 @@ class News extends Admin_Controller
             'created' => form_dropdown('created_day', $this->formDay, date('d')) .
                 form_dropdown('created_month', $this->formMonth, date('m')) .
                 form_dropdown('created_year', $this->formYear, date('Y')),
-            'expired' => form_dropdown('expired_day', $this->formDay, date('d')) .
-                form_dropdown('expired_month', $this->formMonth, date('m')) .
-                form_dropdown('expired_year', $this->formYear, date('Y')),
+//            'expired' => form_dropdown('expired_day', $this->formDay, date('d')) .
+//                form_dropdown('expired_month', $this->formMonth, date('m')) .
+//                form_dropdown('expired_year', $this->formYear, date('Y')),
             'commented' => !empty($news['commented']) ? 'Нет' . form_radio('commented', 0, $news['commented'], 'checked') . ' Да' . form_radio('commented', 1, $news['commented']) :
                 'Нет' . form_radio('commented', 0, '', 'checked') . ' Да' . form_radio('commented', 1, ''),
             'rating' => !empty($news['rating']) ? 'Нет' . form_radio('rating', 0, $news['rating']) . 'Да' . form_radio('rating', 1, $news['rating']) :
@@ -99,11 +99,11 @@ class News extends Admin_Controller
         //$created    = date('Y-m-d h:i:s');  // notice
         //print_r($created);	die;	    // notice
         $created = date('Y-m-d h:i:s', $created);
-        $expired = $this->news_model->datetime(array(
-            'day' => $this->input->post('expired_day'),
-            'month' => $this->input->post('expired_month'),
-            'year' => $this->input->post('expired_year')
-        ));
+//        $expired = $this->news_model->datetime(array(
+//            'day' => $this->input->post('expired_day'),
+//            'month' => $this->input->post('expired_month'),
+//            'year' => $this->input->post('expired_year')
+//        ));
 
         $commented = $this->input->post('commented');
         $rating = $this->input->post('rating');
@@ -132,7 +132,7 @@ class News extends Admin_Controller
                 'body' => $body,
                 'created' => $created,
                 'img' => $img,
-                'expired' => $expired,
+                //'expired' => $expired,
                 'commented' => $commented,
                 'rating' => $rating
             ), array('id' => $news[0]['id']));
