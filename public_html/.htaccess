@@ -1,5 +1,5 @@
 AddDefaultCharset UTF-8
 
 RewriteEngine on
-RewriteCond $1 !^(index\.php|rss\.php|editor\.php|pars|cms_icons|photo|extensions|administrator|templates|uploads|favicon\.ico|robots\.txt)
+RewriteCond $1 !^(index\.php|rss\.php|editor\.php|pars|news_imgs|cms_icons|photo|extensions|administrator|templates|uploads|favicon\.ico|robots\.txt)
 RewriteRule ^(.*)$ /index.php?/$1 [L]
