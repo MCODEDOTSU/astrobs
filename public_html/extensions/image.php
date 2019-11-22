@@ -31,14 +31,14 @@ if (!in_array($wh, $allowed_sizes)) {
 }
 $src = $_dir . '/' . $file . '.' . $_type;
 
-print_r($src);
-
 if (!file_exists($src)) {
     $src = 'images/no_image.jpg';
 }
 
 $cache = $_dir . '/cache/' . $_file . '.' . $_type;
 
+echo $cache;
+return;
 
 if (!file_exists($cache) || filemtime($cache) < filemtime($src)) {
     $_type = substr($src, strrpos($src, '.') + 1);
