@@ -10,7 +10,12 @@ if (strpos($_dir, '/images') > 0) {
 $_file = substr($_REQUEST['src'], strrpos($_REQUEST['src'], '/') + 1, strrpos($_REQUEST['src'], '.') - (strrpos($_REQUEST['src'], '/') + 1));
 $_type = substr($_REQUEST['src'], strrpos($_REQUEST['src'], '.') + 1);
 
-list($file, $wh, $method, $bgcolor) = explode('_', $_file);
+$_fileExplode = explode('_', $_file);
+$file = !empty($_fileExplode[0]) ? $_fileExplode[0] : '';
+$wh = !empty($_fileExplode[1]) ? $_fileExplode[1] : '';
+$method = !empty($_fileExplode[2]) ? $_fileExplode[2] : '';
+$bgcolor = !empty($_fileExplode[3]) ? $_fileExplode[3] : '';
+
 if (!in_array($wh, $allowed_sizes)) {
     die('Недопустимый размер изображения!');
 }
@@ -75,10 +80,6 @@ if (!file_exists($cache) || filemtime($cache) < filemtime($src)) {
     }
 }
 $_type = strtr($_type, 'ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'abcdefghijklmnopqrstuvwxyzабвгдеёжзийклмнопрстуфхцчшщъыьэюя');
-
-echo $cache;
-return;
-
 switch ($_type) {
     case 'jpg':
     case 'jpeg':
