@@ -37,9 +37,6 @@ if (!file_exists($src)) {
 
 $cache = $_dir . '/cache/' . $_file . '.' . $_type;
 
-echo $cache;
-return;
-
 if (!file_exists($cache) || filemtime($cache) < filemtime($src)) {
     $_type = substr($src, strrpos($src, '.') + 1);
     $_type = strtr($_type, 'ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'abcdefghijklmnopqrstuvwxyzабвгдеёжзийклмнопрстуфхцчшщъыьэюя');
