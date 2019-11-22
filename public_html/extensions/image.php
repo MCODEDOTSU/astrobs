@@ -3,11 +3,11 @@ $allowed_sizes = array(
     '75x75', '50x50', '100x100', '150x150', '200x200', '250x250', '120x120'
 );
 
-$_dir = dirname($_REQUEST[src]);
+$_dir = dirname($_REQUEST['src']);
 if (strpos($_dir, '/images') > 0) {
     $_dir = substr($_dir, strpos($_dir, '/images') + 1);
 }
-$_file = substr($_REQUEST['src'], strrpos($_REQUEST[src], '/') + 1, strrpos($_REQUEST[src], '.') - (strrpos($_REQUEST[src], '/') + 1));
+$_file = substr($_REQUEST['src'], strrpos($_REQUEST['src'], '/') + 1, strrpos($_REQUEST['src'], '.') - (strrpos($_REQUEST['src'], '/') + 1));
 $_type = substr($_REQUEST['src'], strrpos($_REQUEST['src'], '.') + 1);
 
 list($file, $wh, $method, $bgcolor) = explode('_', $_file);
@@ -20,9 +20,6 @@ if (!file_exists($src)) {
 }
 
 $cache = $_dir . '/cache/' . $_file . '.' . $_type;
-
-echo $cache;
-return;
 
 
 if (!file_exists($cache) || filemtime($cache) < filemtime($src)) {
