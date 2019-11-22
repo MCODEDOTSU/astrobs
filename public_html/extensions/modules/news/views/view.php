@@ -65,7 +65,7 @@ if ($news_data['commented'] != '1') {
 			<i>Оставил <?=$row['name'];?>, <?=date("d.m.Y", $row['time']);?></i><br />
 			<?=$row['text'];?>
 		    </div>
-		<?
+		<?php
 	}
 }
 ?>
