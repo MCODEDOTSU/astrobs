@@ -1,5 +1,6 @@
 .idea/
 .backup/
+.usermin/
 backup/
 public_html/administrator/application/config/
 public_html/application/config/
