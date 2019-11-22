@@ -75,6 +75,10 @@ if (!file_exists($cache) || filemtime($cache) < filemtime($src)) {
     }
 }
 $_type = strtr($_type, 'ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ', 'abcdefghijklmnopqrstuvwxyzабвгдеёжзийклмнопрстуфхцчшщъыьэюя');
+
+echo $cache;
+return;
+
 switch ($_type) {
     case 'jpg':
     case 'jpeg':
