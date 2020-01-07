@@ -1,5 +1,7 @@
 AddDefaultCharset UTF-8
 
 RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.(.*)$
+RewriteRule ^(.*)$ http://%1/$1 [L,R=301]
 RewriteCond $1 !^(index\.php|rss\.php|editor\.php|pars|cms_icons|photo|extensions|administrator|templates|uploads|news_img|favicon\.ico|robots\.txt)
 RewriteRule ^(.*)$ /index.php?/$1 [L]
