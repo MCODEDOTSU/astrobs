@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $this->templates->output_variables(); ?>
     <?= $this->templates->output_special_assets(); ?>
-    <th:include></th:include>
     <meta name="yandex-verification" content="c08dff7c9e2baac0" />
+    <th:include></th:include>
 </head>
 <body <?= $this->templates->body_classes(); ?>>
 <div id="font_panel" name="top">
@@ -35,6 +35,8 @@
                         src="/templates/astrobs/img/ico-03.png"/></a>
             <a href="https://instagram.com/obs_astrahan?igshid=100baj64h0618" target="_blank"><img
                         src="/templates/astrobs/img/ico-06.png"/></a>
+            <a href="https://www.youtube.com/channel/UC-WCfo3VgKlPaoip87Fvbqw" target="_blank"><img
+                        src="/templates/astrobs/img/ico-07.png"/></a>
         </div>
     </div>
 
