@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $this->templates->output_variables(); ?>
     <?= $this->templates->output_special_assets(); ?>
+    <meta name="yandex-verification" content="c08dff7c9e2baac0" />
     <th:include></th:include>
 </head>
 <body <?= $this->templates->body_classes(); ?>>
