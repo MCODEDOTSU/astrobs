@@ -66,7 +66,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 " часа, посетителей за 24 часа и за сегодня' "+
 "border='0' width='88' height='31'><\/a>")
 //--></script><!--/LiveInternet-->
-
+                        <script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=11430" data-pixel-id="11430"></script>
 					</div>
 				</div>
 				<div id="footer_tip_right"></div>

@@ -85,6 +85,7 @@
                             //-->
                         </script>
                         <!--/LiveInternet-->
+                        <script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=11430" data-pixel-id="11430"></script>
                     </div>
                 </div>
                 <div class="cms_col-lg-7">
