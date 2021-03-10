@@ -35,6 +35,8 @@
                         src="/templates/astrobs/img/ico-03.png"/></a>
             <a href="https://instagram.com/obs_astrahan?igshid=100baj64h0618" target="_blank"><img
                         src="/templates/astrobs/img/ico-06.png"/></a>
+            <a href="https://www.youtube.com/channel/UC-WCfo3VgKlPaoip87Fvbqw" target="_blank"><img
+                        src="/templates/astrobs/img/ico-07.png"/></a>
         </div>
     </div>
 
