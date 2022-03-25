@@ -26,17 +26,11 @@
         <th:versite></th:versite>
 
         <div id="header-ico">
-            <a href="https://www.facebook.com/profile.php?id=100024931699391" target="_blank"><img
-                        src="/templates/astrobs/img/ico-04.png"/></a>
             <a href="http://twitter.com/bcslep" target="_blank"><img src="/templates/astrobs/img/ico-05.png"/></a>
-            <a href="https://vk.com/id507093575" target="_blank"><img src="/templates/astrobs/img/ico-02.png"/></a>
+            <a href="https://vk.com/id712300742" target="_blank"><img src="/templates/astrobs/img/ico-02.png"/></a>
             <a href="http://bcslep.livejournal.com/" target="_blank"><img src="/templates/astrobs/img/ico-01.png"/></a>
-            <a href="http://www.odnoklassniki.ru/profile/556769032083" target="_blank"><img
-                        src="/templates/astrobs/img/ico-03.png"/></a>
-            <a href="https://instagram.com/obs_astrahan?igshid=100baj64h0618" target="_blank"><img
-                        src="/templates/astrobs/img/ico-06.png"/></a>
-            <a href="https://www.youtube.com/channel/UC-WCfo3VgKlPaoip87Fvbqw" target="_blank"><img
-                        src="/templates/astrobs/img/ico-07.png"/></a>
+            <a href="http://www.odnoklassniki.ru/profile/556769032083" target="_blank"><img src="/templates/astrobs/img/ico-03.png"/></a>
+            <a href="https://www.youtube.com/channel/UC-WCfo3VgKlPaoip87Fvbqw" target="_blank"><img src="/templates/astrobs/img/ico-07.png"/></a>
         </div>
     </div>
 
