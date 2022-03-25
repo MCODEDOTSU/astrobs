@@ -31,6 +31,8 @@
             <a href="http://bcslep.livejournal.com/" target="_blank"><img src="/templates/astrobs/img/ico-01.png"/></a>
             <a href="http://www.odnoklassniki.ru/profile/556769032083" target="_blank"><img src="/templates/astrobs/img/ico-03.png"/></a>
             <a href="https://www.youtube.com/channel/UC-WCfo3VgKlPaoip87Fvbqw" target="_blank"><img src="/templates/astrobs/img/ico-07.png"/></a>
+            <a href="https://my.mail.ru/mail/astrakhanobs/" target="_blank"><img src="/templates/astrobs/img/ico-08.png"/></a>
+            <a href="https://t.me/astraobs/" target="_blank"><img src="/templates/astrobs/img/ico-09.png"/></a>
         </div>
     </div>
 
