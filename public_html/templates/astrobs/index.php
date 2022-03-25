@@ -33,6 +33,7 @@
             <a href="https://www.youtube.com/channel/UC-WCfo3VgKlPaoip87Fvbqw" target="_blank"><img src="/templates/astrobs/img/ico-07.png"/></a>
             <a href="https://my.mail.ru/mail/astrakhanobs/" target="_blank"><img src="/templates/astrobs/img/ico-08.png"/></a>
             <a href="https://t.me/astraobs/" target="_blank"><img src="/templates/astrobs/img/ico-09.png"/></a>
+            <a href="https://rutube.ru/channel/24719175/" target="_blank"><img src="/templates/astrobs/img/ico-10.png"/></a>
         </div>
     </div>
 
