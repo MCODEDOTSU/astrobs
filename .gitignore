@@ -6,6 +6,7 @@ public_html/administrator/application/config/
 public_html/application/config/
 public_html/system/logs/
 public_html/uploads/
+public_html/news_imgs/
 .backup.lock
 .bash_logout
 awstats/
