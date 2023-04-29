@@ -5,11 +5,11 @@
 
 		<br /><br />
 		
-		<labe for="description">Описание:</label><br /><br /> {description}
+		<label for="description">Описание:</label><br /><br /> {description}
 
 		<br /><br />
 		
-		<label for="document">Прикрепите документ (.doc|.docx|.xls|.zip) </label>{document}
+		<label for="document">Прикрепите документ (.doc|.docx|.xls|.zip|.pdf) </label>{document}
 		{form_submit}
 
 	{form_close}

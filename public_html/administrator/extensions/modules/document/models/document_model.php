@@ -49,7 +49,7 @@ class Document_model extends Model
     {
         $config = array(
             'upload_path'   => './uploads/document/',     
-            'allowed_types' => 'xls|zip|doc|docx|word',
+            'allowed_types' => 'xls|zip|doc|docx|word|pdf',
             'max_size' => 2048000,
             'encrypt_name' => TRUE,
             'remove_spaces' => TRUE    
