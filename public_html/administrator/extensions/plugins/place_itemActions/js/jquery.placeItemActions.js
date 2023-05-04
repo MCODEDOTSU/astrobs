@@ -39,7 +39,7 @@
 				$('<a href="#" title="Редактировать">'+$.placeItemActions.settings.icon.edit+'</a>').appendTo($(div)).click(function(){ $.placeItemActions.edit(dataArray); return false;});
 			}
             $('<a href="#" title="Переименовать">'+$.placeItemActions.settings.icon.rename+'</a>').appendTo($(div)).click(function(){ $.placeItemActions.rename(dataArray, item, container); return false;});
-            // $('<a href="#" title="Удалить">'+$.placeItemActions.settings.icon.remove+'</a>').appendTo($(div)).click(function(){ $.placeItemActions.remove(dataArray, container); return false;});
+            $('<a href="#" title="Удалить" style="display:none;">'+$.placeItemActions.settings.icon.remove+'</a>').appendTo($(div)).click(function(){ $.placeItemActions.remove(dataArray, container); return false;});
             
         });
     },
